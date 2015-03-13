@@ -1,0 +1,10 @@
+<h1>ALIÞVERÝÞ LÝSTESÝ</h1>
+<u1>
+	<li>çok ayakkabý</li>
+	<li>2 çanta</li>
+	<li>pahalý saat</li>
+	<li>ucuz cüzdan</li>
+	<li>az çürük domates</li>
+	<li>sivri biber</li>
+	<li>patlýcan</li>
+</u1>
